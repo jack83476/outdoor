@@ -10,7 +10,7 @@
 
 [https://github.com/SagerNet/sing-box](https://github.com/clash-verge-rev/clash-verge-rev)
 
-**Clash Verge** <img src="https://img.shields.io/github/stars/throneproj/Throne?style=flat" />
+**Clash Verge** <img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat" />
 
 [https://github.com/clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
