@@ -1,4 +1,4 @@
-OpenVPN <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=for-the-badge&label=" />
+OpenVPN <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat&label=" />
 
 [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
 
