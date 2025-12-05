@@ -1,4 +1,4 @@
-OpenVPN <img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=flat" />
+OpenVPN <img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=flat-square" />
 
 [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
 
