@@ -1,6 +1,8 @@
-OpenVPN <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat" />
+OpenVPN <img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=flat" />
 
 [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
+
+Throne <img src="https://img.shields.io/github/stars/throneproj/Throne?style=flat" />
 
 [https://github.com/throneproj/Throne](https://github.com/throneproj/Throne)
 
