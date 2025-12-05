@@ -1,6 +1,7 @@
 **v2rayN** <img src="https://img.shields.io/github/stars/2dust/v2rayN?style=flat" />
-
+A GUI client for Windows, Linux and macOS
 [https://github.com/2dust/v2rayN](https://github.com/2dust/v2rayN)
+<br/>
 
 **Clash Verge** <img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat" />
 
