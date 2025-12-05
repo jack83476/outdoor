@@ -4,8 +4,6 @@ A GUI client for Windows, Linux and macOS
 
 [https://github.com/2dust/v2rayN](https://github.com/2dust/v2rayN)
 
-<br/>
-
 **Clash Verge** <img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat" />
 
 Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
