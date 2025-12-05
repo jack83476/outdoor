@@ -1,6 +1,5 @@
 url| Star|
 -|-|
-[https://github.com/ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge" />
 [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />
 [https://github.com/throneproj/Throne](https://github.com/throneproj/Throne)|<img src="https://img.shields.io/github/stars/throneproj/Throne?style=for-the-badge" />
 [https://github.com/SagerNet/sing-box](https://github.com/SagerNet/sing-box)|<img src="https://img.shields.io/github/stars/SagerNet/sing-box?style=for-the-badge" />
