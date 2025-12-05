@@ -1,4 +1,5 @@
-OpenVPN 
+OpenVPN <img src="https://img.shields.io/github/last-commit/Atlas-OS/Atlas?style=for-the-badge" />
+
 [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
 
 [https://github.com/throneproj/Throne](https://github.com/throneproj/Throne)
