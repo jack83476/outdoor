@@ -10,6 +10,12 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 [https://github.com/clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
+**v2rayNG** <img src="https://img.shields.io/github/stars/2dust/v2rayNG?style=flat" />
+
+A V2Ray client for Android
+
+[https://github.com/2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+
 **Sing Box** <img src="https://img.shields.io/github/stars/SagerNet/sing-box?style=flat" />
 
 [https://github.com/SagerNet/sing-box](https://github.com/clash-verge-rev/clash-verge-rev)
