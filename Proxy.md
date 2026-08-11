@@ -15,6 +15,12 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 [https://github.com/clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
+**FlClash** <img src="https://img.shields.io/github/stars/chen08209/FlClash?style=flat" />
+
+A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+[https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
+
 **v2rayNG** <img src="https://img.shields.io/github/stars/2dust/v2rayNG?style=flat" />
 
 A V2Ray client for Android
