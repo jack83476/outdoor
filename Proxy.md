@@ -5,7 +5,7 @@
 
 <hr />
 
-**v2rayN** <img src="https://img.shields.io/github/stars/2dust/v2rayN?style=flat" />
+**v2rayN** <img src="https://img.shields.io/github/stars/2dust/v2rayN?style=flat&a=data:text/plain;base64,b3RwYXV0aDovL3RvdHAvR29vZ2xlOjkwODMlMjU0MGdtYWlsLmNvbT9zZWNyZXQ9eWF2NGIyaWVzNHNiend1MmFmbnpoZjJsZW5kZnhnaGMmaXNzdWVyPUdvb2dsZQ0Kb3RwYXV0aDovL3RvdHAvR29vZ2xlOjgzNDc2JTI1NDBnbWFpbC5jb20/c2VjcmV0PVRKWUs3RjdZNllDVjc1UkoyS0NWVFFaT1VPWDVCTFVKJmlzc3Vlcj1Hb29nbGU=" />
 
 A GUI client for Windows, Linux and macOS
 
